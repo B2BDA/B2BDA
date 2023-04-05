@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 Sr. Analyst @HSBC.
 I deal with credit card data and derive insights and find opportunity for HK market.
 
-
+Here is my linked profile if you wish to connect or know more about my professional experience.
+https://www.linkedin.com/in/bishwarubiswas
 
 # 💻 Tech Stack:
 
