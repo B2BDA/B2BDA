@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 
-I am currently working at HSBC as a Sr. Analyst.
+Sr. Analyst @HSBC.
+I deal with credit card data and derive insights and find opportunity for HK market.
+
+
 
 # 💻 Tech Stack:
 
