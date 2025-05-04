@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 
-Sr. Analyst @HSBC.
+Manager - Data Science & Analytics @HSBC.
 I deal with credit card data and derive insights and find opportunity for HK market.
 
 Here is my linked profile if you wish to connect or know more about my professional experience.
@@ -45,12 +45,6 @@ https://www.linkedin.com/in/bishwarubiswas
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=B2BDA&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=B2BDA&icon=0&color=0)](https://visitcount.itsvg.in)
 
